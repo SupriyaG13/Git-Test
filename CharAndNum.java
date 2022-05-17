@@ -29,6 +29,8 @@ public class CharAndNum {
 		System.out.println(ct);
 		System.out.println(digit);
 		System.out.println(dc);
+		System.out.println("Hello");
+		System.out.println("gud evening");
 
 	}
 
